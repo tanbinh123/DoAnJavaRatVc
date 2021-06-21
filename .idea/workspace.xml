@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1722f8fd-9a0c-4d89-9375-61c340cc41cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bàilam" beforeDir="false" afterPath="$PROJECT_DIR$/bàilam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/FAQ/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/bàilam/FAQ/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/Login/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/bàilam/Login/Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/Login/java/login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/TrangChu.html" beforeDir="false" afterPath="$PROJECT_DIR$/bàilam/TrangChu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/about/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/bàilam/about/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/account/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/bàilam/account/account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/account/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/bàilam/account/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/buy/buy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/buy/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/buy/img/12277962035_57f29e6c06_b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/buy/img/tải xuống.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/feedback/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/feedback/feeback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/feedback/img/12277962035_57f29e6c06_b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/feedback/img/tải xuống.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/bàilam/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/shopping cart/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/bàilam/shopping cart/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/shopping cart/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/bàilam/shopping cart/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/shopping cart/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/bàilam/shopping cart/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bàilam/shopping cart/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/bàilam/shopping cart/shop.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tmE5pM0jEn4CKAcQJFmE5RQsDy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MochiCake-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1722f8fd-9a0c-4d89-9375-61c340cc41cf" name="Default Changelist" comment="" />
+      <created>1623365683432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623365683432</updated>
+      <workItem from="1623365684694" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
